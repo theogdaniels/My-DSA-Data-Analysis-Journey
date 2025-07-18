@@ -55,7 +55,7 @@ The primary source of data used here is the KMS SQL Case Study.csv & Order_Statu
 
 
 ### Tools Used 
-- SQL Server Management Studio 20 [Download here]().
+- SQL Server Management Studio 20 [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads).
     - For Data Querying
     - For Data Integration
     - For Data Analysis
