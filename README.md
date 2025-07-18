@@ -1,9 +1,5 @@
 # My_DSA_Data_Analysis_Journey
 
-## Table of Contents
-- [Project Topic 1](#Project Topic 1)
-- [Project Overview] (#Project Overview)
-
 
 ### Porfolio Building
 **On Porfolio Building**
