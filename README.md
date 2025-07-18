@@ -1,2 +1,5 @@
-# My-DSA-Data-Analysis-Journey
-This is where I started my Portfolio while taking my Data Analyst with DSA- The Incubator Hub
+# My_DSA_Data_Analysis_Journey
+
+### Porfolio Building
+**On porfolio building**
+Here at DSA (Digital SKills Africa) was where I began to know and learn about portfolio building. Having had classes with DSA on data analysis. I have learnt to use analytic programmees like Excel, SQL (Structured Query Language) and the Power BI
